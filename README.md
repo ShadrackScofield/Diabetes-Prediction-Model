@@ -1,0 +1,1 @@
+This ML model uses data from patients to predict whether the patients are diabetic or not. Some of the data includes: Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction and Age.
